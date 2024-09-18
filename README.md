@@ -21,7 +21,11 @@ https://codelabs-preview.appspot.com/?file_id=1SRj1Bw5Mslf2abbsyFWPD23EjKr5ABgIg
 
 
 ## Overview
-The AI-Enhanced Healthcare Response System provides a user-friendly platform for symptom assessment and medication guidance. Integrated with CVS, it offers personalized health insights, streamlining access to treatments. The system aims to improve healthcare accessibility, early disease detection, and patient empowerment through efficient data management and resource optimization.
+This project is focused on enhancing healthcare accessibility by developing a user-friendly application that provides personalized medication suggestions based on symptoms and user's past medical histories. The app is designed to offer real-time diagnostic support and treatment recommendations, making it easy for users to receive helpful guidance without needing extensive medical knowledge.
+
+The application is voice-activated, allowing users to simply speak their symptoms, and it responds with relevant suggestions. It also securely stores and processes medical data, ensuring user privacy while delivering personalized care recommendations. The system is built to scale, meaning it can handle larger volumes of data as it grows and more users engage with it.
+
+This project is a step towards making healthcare support more accessible and responsive, helping users get the information they need quickly and easily.
 
 ## Problem Statement
 Current symptom assessment methods are inefficient, leading to unreliable self-diagnosis. Manual symptom analysis in healthcare is time-consuming, causing delays in diagnosis and treatment. Data management issues hinder healthcare efficiency and patient care. The project aims to address these challenges by automating symptom analysis, improving access to healthcare, and enhancing patient experience.
