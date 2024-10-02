@@ -59,19 +59,19 @@ Our system comprises these interconnected modules:
 - A user-friendly interface for medical professionals to access patient information, input symptoms, and receive AI-driven diagnostic and treatment suggestions.
 
 ## Architecture Diagram
-![image](https://github.com/BigDataIA-Spring2024-Sec1-Team1/FinalProject/blob/main/Architecture%20Diagram.png)
+![image](https://github.com/devmithun7/AI-Healthcare-System/blob/main/Architecture%20Diagram.png)
 
 ## Dag1  Architecture Diagram
 
-![image](https://github.com/BigDataIA-Spring2024-Sec1-Team1/FinalProject/blob/main/architecture_diagram.png)
+![image](https://github.com/devmithun7/AI-Healthcare-System/blob/main/architecture_diagram.png)
 
 ## Dag2  Architecture Diagram
 
-![image](https://github.com/BigDataIA-Spring2024-Sec1-Team1/FinalProject/blob/main/dag2.png)
+![image](https://github.com/devmithun7/AI-Healthcare-System/blob/main/dag2.png)
 
 ## Dag3 and 4  Architecture Diagram
 
-![image](https://github.com/BigDataIA-Spring2024-Sec1-Team1/FinalProject/blob/main/architecture_diagram1.png)
+![image](https://github.com/devmithun7/AI-Healthcare-System/blob/main/architecture_diagram1.png)
 
 # How to use this repository
 
