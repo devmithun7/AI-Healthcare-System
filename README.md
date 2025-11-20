@@ -104,7 +104,7 @@ Our system comprises these interconnected modules:
 
 ## How to run the Application
 
-- Download the code from github: https://github.com/BigDataIA-Spring2024-Sec1-Team1/FinalProject
+- Download the code from github
 - Run the Airflow from the above github repository or in your local
 - Configure Snowflake in your local following the instructions from here
 - Navigate to the following file and run it.
